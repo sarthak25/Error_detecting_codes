@@ -7,4 +7,4 @@ Some popular techniques for error detection are:
 1. Simple Parity check
 2. Two-dimensional Parity check
 3. Checksum
-4. Cyclic redundancy check
+4. Cyclic redundancy check (CRC)
