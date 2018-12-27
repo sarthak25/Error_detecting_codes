@@ -8,3 +8,5 @@ Some popular techniques for error detection are:
 2. Two-dimensional Parity check
 3. Checksum
 4. Cyclic redundancy check (CRC)
+
+Sample Output is available for reference 
