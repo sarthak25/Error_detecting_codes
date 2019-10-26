@@ -9,4 +9,4 @@ Some popular techniques for error detection are:
 3. Checksum
 4. Cyclic redundancy check (CRC)
 
-Sample Output is available for reference 
+Sample Output is available for reference....
